@@ -11,5 +11,5 @@ paperurl: 'https://proceedings.mlr.press/v216/dai23a/dai23a.pdf'
 
 Download paper [here](https://proceedings.mlr.press/v216/dai23a/dai23a.pdf)
 
-Recommended citation:
+Recommended citation:  
 **Yanqi Dai, Nanyi Fei, Zhiwu Lu** Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:496-506, 2023.
