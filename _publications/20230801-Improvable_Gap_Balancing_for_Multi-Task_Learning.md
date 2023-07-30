@@ -6,7 +6,6 @@ excerpt: 'We propose two novel improvable gap balancing algorithms for multi-tas
 date: 2023-08-01
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)'
 paperurl: '../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-paper.pdf'
-citation: 'Yanqi Dai, Nanyi Fei, Zhiwu Lu. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:496-506, 2023.'
 ---
 
 ![The architecture overview of IGBv2 by applying DRL to MTL.](../images/Improvable_Gap_Balancing_for_Multi-Task_Learning-IGBv2.png)
@@ -15,3 +14,6 @@ citation: 'Yanqi Dai, Nanyi Fei, Zhiwu Lu. Proceedings of the Thirty-Ninth Confe
 
 Download paper [here](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-paper.pdf).  
 Download poster [here](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-poster.pdf).
+
+Recommended citation:  
+Yanqi Dai, Nanyi Fei, Zhiwu Lu. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:496-506, 2023.'
