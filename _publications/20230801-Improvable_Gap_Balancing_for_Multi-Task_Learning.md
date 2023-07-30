@@ -1,7 +1,7 @@
 ---
 title: "Improvable Gap Balancing for Multi-Task Learning"
 collection: publications
-permalink: /publication/20230801-Improvable Gap Balancing for Multi-Task Learning
+permalink: /publication/20230801-Improvable_Gap_Balancing_for_Multi-Task_Learning
 excerpt: 'We propose two novel improvable gap balancing algorithms for multi-task learning, instead of the classic loss balancing strategy: one takes a simple heuristic, and the other (for the first time) deploys deep reinforcement learning for MTL.'
 date: 2023-08-01
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)'
