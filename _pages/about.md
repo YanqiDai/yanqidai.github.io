@@ -15,5 +15,3 @@ My research focuses on Multi-Task Learning and Multi-Modal Learning. Currently, 
 
 ## Awards & Hornors
 Outstanding Graduate of LiaoNing Province, 2022.
-
-## Correspondence
