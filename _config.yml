@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/profile.php?id=100093071842825"
+  facebook         : "profile.php?id=100093071842825"
   foursquare       :
   github           : "YanqiDai"
   google_plus      :
@@ -109,13 +109,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/YechielDai"
+  twitter          : "YechielDai"
   vine             :
-  weibo            : "https://m.weibo.cn/profile/6851383834"
+  weibo            : "u/6851383834"
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "13315036605"
 
 
 # Reading Files
