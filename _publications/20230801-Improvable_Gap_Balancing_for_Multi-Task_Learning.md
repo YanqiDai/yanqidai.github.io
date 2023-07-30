@@ -16,4 +16,4 @@ Download paper [here](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-
 Download poster [here](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-poster.pdf).
 
 Recommended citation:  
-Yanqi Dai, Nanyi Fei, Zhiwu Lu. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:496-506, 2023.'
+Yanqi Dai, Nanyi Fei, Zhiwu Lu. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:496-506, 2023.
