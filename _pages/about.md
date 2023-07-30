@@ -14,5 +14,6 @@ I am a first-year Ph.D. student at the [Gaoling School of Artificial Intelligenc
 My research focuses on Multi-Task Learning and Multi-Modal Learning. Currently, I am exploring the field of multi-task instruction tuning, particularly in utilizing multi-task learning to enhance the effectiveness of instruction tuning.
 
 ## Awards & Hornors
+Outstanding Graduate of LiaoNing Province, 2022.
 
 ## Correspondence
