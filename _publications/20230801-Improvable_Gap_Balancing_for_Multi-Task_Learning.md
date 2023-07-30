@@ -11,7 +11,7 @@ paperurl: '../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-paper.pdf'
 
 ![The architecture overview of IGBv2 by applying DRL to MTL.](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-IGBv2.pdf)
 
-Download paper [here](https://proceedings.mlr.press/v216/dai23a/dai23a.pdf)  
+Download paper [here](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-paper.pdf)  
 Download poster [here](../files/Improvable_Gap_Balancing_for_Multi-Task_Learning-poster.pdf)
 
 Recommended citation:  
